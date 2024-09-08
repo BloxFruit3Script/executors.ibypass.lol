@@ -16,6 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
             link: "https://mega.nz/file/iTwAXaDQ#kuShntQYHd7LlUjdYcz8qsYdFShWuzRWocbMimNmy8k"
         },
         {
+            name: "Cryptic",
+            status: "operational",
+            image: "./exploits-imgs/cryptic.png",
+            link: "https://www.mediafire.com/file/fmbien8pwto8ba1/Cryptic-1.0.640.730.apk/file"
+        },
+        {
             name: "Cubix",
             status: "operational",
             image: "./exploits-imgs/cubix.png",
