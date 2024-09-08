@@ -22,6 +22,12 @@ document.addEventListener('DOMContentLoaded', () => {
             link: "https://www.mediafire.com/file/tdnjfjwmuwyykdi/Cubix-2.641.737.apk/file"
         },
         {
+            name: "FellProgram",
+            status: "operational",
+            image: "./exploits-imgs/fellprogram.png",
+            link: "https://www.mediafire.com/file/ptaed9zirisyrvt/FellProgram_released.apk/file"
+        },
+        {
             name: "CodeX",
             status: "offline",
             image: "/exploits-imgs/codex.png",
@@ -32,12 +38,6 @@ document.addEventListener('DOMContentLoaded', () => {
             status: "offline",
             image: "./exploits-imgs/arceus-x-neo.png",
             link: "https://www.mediafire.com/file/hdwy75bo64q24gl/Roblox_Arceus_X_NEO_1.4.1.apk/file"
-        },
-        {
-            name: "FellProgram",
-            status: "operational",
-            image: "./exploits-imgs/fellprogram.png",
-            link: "https://www.mediafire.com/file/ptaed9zirisyrvt/FellProgram_released.apk/file"
         },
         {
             name: "Evon",
